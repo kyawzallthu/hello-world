@@ -1,0 +1,2 @@
+https://kyawzallwordpress.000webhostapp.com/wp-admin/edit-tags.php?taxonomy=category
+https://kyawzallwordpress.000webhostapp.com/wp-admin/post-new.php
